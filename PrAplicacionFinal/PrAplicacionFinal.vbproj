@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B6934EE0-C8BA-4D14-8F39-2800865BD3D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PrAplicacionFinal.My.MyApplication</StartupObject>
+    <RootNamespace>PrAplicacionFinal</RootNamespace>
+    <AssemblyName>PrAplicacionFinal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PrAplicacionFinal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PrAplicacionFinal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarCliente.Designer.vb">
+      <DependentUpon>frmAgregarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarMercaderia.Designer.vb">
+      <DependentUpon>frmAgregarMercaderia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarMercaderia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarVendedor.Designer.vb">
+      <DependentUpon>frmAgregarVendedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios De Agregar Registros\frmAgregarVendedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Estadisticas\frmEstadisticas.Designer.vb">
+      <DependentUpon>frmEstadisticas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Estadisticas\frmEstadisticas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcceso.Designer.vb">
+      <DependentUpon>frmAcceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosManteniento\Clase Usuario\Usuarios.vb" />
+    <Compile Include="FormulariosManteniento\frmListProduct.Designer.vb">
+      <DependentUpon>frmListProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmListProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Gestion Ventas\frmFacturas.Designer.vb">
+      <DependentUpon>frmFacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Gestion Ventas\frmFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmListClientes.Designer.vb">
+      <DependentUpon>frmListClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmListClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Gestion Ventas\frmEntregas.Designer.vb">
+      <DependentUpon>frmEntregas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Gestion Ventas\frmEntregas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmListVendedores.Designer.vb">
+      <DependentUpon>frmListVendedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmListVendedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmUsuarios.Designer.vb">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormulariosManteniento\frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GFacHojillaData.vb">
+      <DependentUpon>GFacHojillaData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.vb">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GFacHojillaData.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GFacHojillaData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios De Agregar Registros\frmAgregarCliente.resx">
+      <DependentUpon>frmAgregarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios De Agregar Registros\frmAgregarMercaderia.resx">
+      <DependentUpon>frmAgregarMercaderia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios De Agregar Registros\frmAgregarVendedor.resx">
+      <DependentUpon>frmAgregarVendedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Estadisticas\frmEstadisticas.resx">
+      <DependentUpon>frmEstadisticas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Gestion Ventas\frmFacturas.resx">
+      <DependentUpon>frmFacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosManteniento\frmListClientes.resx">
+      <DependentUpon>frmListClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Gestion Ventas\frmEntregas.resx">
+      <DependentUpon>frmEntregas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosManteniento\frmListProduct.resx">
+      <DependentUpon>frmListProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosManteniento\frmListVendedores.resx">
+      <DependentUpon>frmListVendedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulariosManteniento\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcceso.resx">
+      <DependentUpon>frmAcceso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GFacHojillaData.xsc">
+      <DependentUpon>GFacHojillaData.xsd</DependentUpon>
+    </None>
+    <None Include="GFacHojillaData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GFacHojillaData.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GFacHojillaData.xss">
+      <DependentUpon>GFacHojillaData.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-close-icon-5b26727d16c9d2.6648898815292463330934.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimizar-la-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1263344.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\93674926_3231060330240075_3887532271506292736_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fssfs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81659425_2597968323807772_4957074311399600111_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800x453-hojillas-papelito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caja-de-forma-abierta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\concepto-del-símbolo-del-área-del-arrastrar-y-soltar-del-sitio-web-plano-y-aislado-96339924.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1723075.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngocean.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\273-2738719_user-login-icon-png-transparent-background-login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-icons-login-icon-design-png-favpng-LC49C9cSeghLmJfY2zWVZDu71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hiclipart.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-icons-login-icon-design-png-favpng-LC49C9cSeghLmJfY2zWVZDu711.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngocean.com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngocean.com %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngocean.com %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rolling-paper-tobacco-pipe-ocb-zig-zag-others-png-clip-art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwave %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwave %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwave %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-rolling-paper-ocb-rolling-machine-smoking-arabic-gum-5b11d2e1972c26.3861559015278947536192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-clip-art-statistics-computer-icons-vector-graphics-chongqing-telecom-svg-png-icon-free-download-287-5c6aa6e434efe7.7627631415504934122168.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_estadistica-png_3338771.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\469-4694278_png-file-statistics-icon-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PikPng.com_estadistica-png_33387711.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-clip-art-statistics-computer-icons-vector-graphics-chongqing-telecom-svg-png-icon-free-download-287-5c6aa6e434efe7.76276314155049341221681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngocean.com %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-face-silhouette-png-4483798.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-face-silhouette-png-44837981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-face-silhouette-png-4483798 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngfuel.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngkey.com-face-silhouette-png-4483798 %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

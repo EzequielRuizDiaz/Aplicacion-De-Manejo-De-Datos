@@ -1,0 +1,62 @@
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe.config
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.pdb
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.xml
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbprojResolveAssemblyReference.cache
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarCliente.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListClientes.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.MenuPrincipal.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.Resources.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbproj.GenerateResource.Cache
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.exe
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.xml
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.pdb
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarVendedor.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListVendedores.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmEntregas.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListProduct.resources
+C:\Users\eleze\Desktop\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarMercaderia.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe.config
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.exe
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.xml
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.pdb
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.pdb
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.xml
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbprojResolveAssemblyReference.cache
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarCliente.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarMercaderia.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarVendedor.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListClientes.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmEntregas.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListProduct.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListVendedores.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.MenuPrincipal.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.Resources.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbproj.GenerateResource.Cache
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmUsuarios.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmFacturas.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAcceso.resources
+D:\respaldo de archivos\respalodo26\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmEstadisticas.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe.config
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.exe
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.xml
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.pdb
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.exe
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.pdb
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\bin\Debug\PrAplicacionFinal.xml
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbprojResolveAssemblyReference.cache
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarCliente.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarMercaderia.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAgregarVendedor.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmEstadisticas.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmFacturas.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListClientes.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmEntregas.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListProduct.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmListVendedores.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmUsuarios.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.frmAcceso.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.MenuPrincipal.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.Resources.resources
+C:\Users\eleze\Desktop\Entrega Proyecto\PrAplicacion\PrAplicacionFinal\PrAplicacionFinal\obj\Debug\PrAplicacionFinal.vbproj.GenerateResource.Cache

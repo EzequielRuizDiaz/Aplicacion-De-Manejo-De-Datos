@@ -1,0 +1,386 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrAplicacionFinal
+</name>
+</assembly>
+<members>
+<member name="T:PrAplicacionFinal.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._1263344">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._1723075">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._273_2738719_user_login_icon_png_transparent_background_login_icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._469_4694278_png_file_statistics_icon_png_transparent_png">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._64080">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._800x453_hojillas_papelito">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._81659425_2597968323807772_4957074311399600111_n">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources._93674926_3231060330240075_3887532271506292736_o">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.caja_de_forma_abierta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.computer_icons_login_icon_design_png_favpng_LC49C9cSeghLmJfY2zWVZDu71">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.computer_icons_login_icon_design_png_favpng_LC49C9cSeghLmJfY2zWVZDu711">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.concepto_del_símbolo_del_área_del_arrastrar_y_soltar_del_sitio_web_plano_y_aislado_96339924">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.descarga">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.descarga1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.fssfs">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.hiclipart_com">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.icons8_minimizar_la_ventana_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.kisspng_clip_art_statistics_computer_icons_vector_graphics_chongqing_telecom_svg_png_icon_free_download_287_5c6aa6e434efe7_7627631415504934122168">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.kisspng_clip_art_statistics_computer_icons_vector_graphics_chongqing_telecom_svg_png_icon_free_download_287_5c6aa6e434efe71">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.kisspng_computer_icons_close_icon_5b26727d16c9d2_6648898815292463330934">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.kisspng_rolling_paper_ocb_rolling_machine_smoking_arabic_gum_5b11d2e1972c26_3861559015278947536192">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.PikPng_com_estadistica_png_3338771">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.PikPng1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngfuel_com">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngkey_com_face_silhouette_png_4483798">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngkey_com_face_silhouette_png_4483798__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngkey_com_face_silhouette_png_4483798__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngkey1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngocean_com">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngocean_com__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngocean_com__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngocean_com__3_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngocean_com__4_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngwave">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngwave__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngwave__2_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.pngwave__3_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrAplicacionFinal.My.Resources.Resources.rolling_paper_tobacco_pipe_ocb_zig_zag_others_png_clip_art">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.EntregasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.MercaderiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.UsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.EntregasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.MercaderiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.UsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.EntregasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.MercaderiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.UsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaData.VentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.EntregasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.MercaderiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.UsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.VendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.VentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrAplicacionFinal.GFacHojillaData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.UpdateInsertedRows(PrAplicacionFinal.GFacHojillaData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.UpdateDeletedRows(PrAplicacionFinal.GFacHojillaData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.UpdateAll(PrAplicacionFinal.GFacHojillaData)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PrAplicacionFinal.GFacHojillaDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
